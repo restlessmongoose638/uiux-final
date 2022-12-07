@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/final-portfolio/static/css/main.37971439.css",
+    "main.js": "/final-portfolio/static/js/main.b3a18df8.js",
+    "static/media/Nexa-Trial-Regular.ttf": "/final-portfolio/static/media/Nexa-Trial-Regular.f0d9ac0976b38c7b26b6.ttf",
+    "static/media/DS-DIGIB.TTF": "/final-portfolio/static/media/DS-DIGIB.81b4bd9230069b72f5e8.TTF",
+    "index.html": "/final-portfolio/index.html",
+    "main.37971439.css.map": "/final-portfolio/static/css/main.37971439.css.map",
+    "main.b3a18df8.js.map": "/final-portfolio/static/js/main.b3a18df8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.37971439.css",
+    "static/js/main.b3a18df8.js"
+  ]
+}
